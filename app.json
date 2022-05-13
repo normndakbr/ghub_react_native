@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ghub_react_native",
+    "slug": "ghub_react_native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ghub_react_native"
+}
